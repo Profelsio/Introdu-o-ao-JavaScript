@@ -1,4 +1,4 @@
-# Introdu-o-ao-JavaScript
+# Introducao-JavaScript
 
 Equipe: Elsio Macedo
 
